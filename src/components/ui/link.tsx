@@ -1,5 +1,4 @@
 import { styled } from '@/config/stitches.config';
-
 import { Text } from './text';
 
 export const Link = styled('a', Text, {

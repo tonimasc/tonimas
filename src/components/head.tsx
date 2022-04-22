@@ -38,15 +38,12 @@ export function Head({
 }
 
 Head.defaultProps = {
-  author: 'YOUR_NAME',
-  description:
-    'A highly opinionated and complete starter for Next.js projects ready to production. Includes Typescript, Styled Components, Prettier, ESLint, Husky, SEO, and more.',
-  keywords:
-    'next, starter, typescript, styled components, prettier, eslint, husky, seo',
-  ogDescription:
-    'A highly opinionated and complete starter for Next.js projects ready to production. Includes Typescript, Styled Components, Prettier, ESLint, Husky, SEO, and more.',
-  ogImage: 'https://next-starter-ebon.vercel.app/images/og.png',
-  ogTitle: 'Next Starter ⚡️: Ready to production',
-  ogUrl: 'https://next-starter-ebon.vercel.app/',
-  title: 'Next Starter',
+  author: 'Toni Mas',
+  description: 'My site',
+  keywords: 'Toni Mas site',
+  ogDescription: 'Toni Mas site',
+  ogImage: '',
+  ogTitle: 'Toni Mas site',
+  ogUrl: '',
+  title: 'Toni Mas',
 };

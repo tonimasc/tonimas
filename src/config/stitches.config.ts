@@ -23,47 +23,27 @@ export const {
     colors: {
       white: '#FFFFFF',
       black: '#272627',
-
-      textGrey1: '#706D70',
-      textGrey2: '#44413C',
-      textGrey3: '#7D7D7D',
-      textWarning: '#875306',
-
-      gray100: 'hsl(0,0%,96%)',
-      borderGrey: '#ECEBEC',
-
-      purple100: '#4A3DE4',
-      purple200: '#F6F5FE',
-
-      backgroundWarning: 'rgba(239, 143, 0, 0.15)',
-      danger: '#E43D3D',
+      grey: '#F5F5F7',
+      textGrey: 'rgba(0, 0, 0, 0.3)',
     },
     space: {
+      small: '8px',
       medium: '16px',
+      big: '32px',
     },
     sizes: {
       container: '1200px',
-      42: '42px',
     },
     fonts: {
-      circular: 'Circular, -apple-system, system-ui, sans-serif',
+      inter: 'Inter, -apple-system, system-ui, sans-serif',
     },
     fontWeights: {
       book: 400,
-      medium: 500,
       bold: 600,
-      black: 700,
     },
     fontSizes: {
-      button: '16px',
       body: '16px',
-      bodyLarge: '20px',
-      bodyExtraSmall: '14px',
-      bodySmall: '15px',
-      headline1: '48px',
-      headline2: '40px',
-      headline3: '32px',
-      headline4: '24px',
+      headline: '24px',
     },
     lineHeights: {
       1: 1.15,

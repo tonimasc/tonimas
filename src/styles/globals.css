@@ -1,3 +1,13 @@
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400 600;
+  font-display: swap;
+  src: url('/fonts/Inter-VariableFont.woff2')
+      format('woff2 supports variations'),
+    url('/fonts/Inter-VariableFont.woff2') format('woff2-variations');
+}
+
 html,
 body {
   padding: 0;
